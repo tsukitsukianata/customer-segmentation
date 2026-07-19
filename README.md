@@ -1,2 +1,13 @@
-# customer-segmentation
-creating a way in order to segment various customer groups
+# Customer Segmentation using Machine Learning
+
+## Project Overview
+
+## Business Problem
+
+## Objectives
+
+## Dataset
+
+## Project Structure
+
+## Roadmap (Milestones)
